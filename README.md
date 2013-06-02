@@ -1,4 +1,4 @@
 manfast-cms
 ===========
 
-Fast easy web cms for mangos
+Fast easy web cms for C(ontinued)-MaNGOS
